@@ -1,0 +1,9 @@
+**
+!pyproject.toml
+!poetry.lock
+!src
+!.devcontainer
+!requirements.txt
+!Dockerfile
+!Makefile
+src/*.egg-info
